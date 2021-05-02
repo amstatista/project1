@@ -1,8 +1,9 @@
-baseURL: https://example.com
+baseURL: https://amstatista.netlify.app
 title: Your title
 theme: hugo-theme-m10c
 paginate: 8
 menu:
+
   main:
     - identifier: home
       name: Home
