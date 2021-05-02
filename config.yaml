@@ -1,5 +1,5 @@
 baseURL: https://amstatista.netlify.app
-title: Your title
+title: AM Analytics
 theme: hugo-theme-m10c
 paginate: 8
 menu:
