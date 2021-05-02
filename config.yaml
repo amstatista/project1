@@ -19,7 +19,7 @@ menu:
       weight: 3
 params:
   author: John Doe
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  description: I love working with data and crunching numbers. Content will range from stats to just about anything that catches my eye. Avid cinephile.
   menu_item_separator: ' - '
   social:
     - icon: github
@@ -27,4 +27,4 @@ params:
       url: https://github.com/gohugoio
     - icon: twitter
       name: Twitter
-      url: https://twitter.com/gohugoio
+      url: https://twitter.com/roamdeuter
