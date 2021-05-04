@@ -2,6 +2,7 @@ baseURL: https://amstatista.netlify.app
 title: AM Analytics
 theme: hugo-theme-m10c
 paginate: 8
+avatar: avatar.jpg
 menu:
 
   main:
