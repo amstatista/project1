@@ -25,7 +25,5 @@ params:
     - icon: twitter
       name: Twitter
       url: https://twitter.com/roamdeuter
-    - icon: gmail
-      name: Gmail
-      url: roamdeuter10@gmail.com
+
       
